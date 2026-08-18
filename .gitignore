@@ -1,0 +1,4 @@
+target/
+
+data/photos/*
+!data/photos/.gitkeep
